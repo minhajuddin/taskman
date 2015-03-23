@@ -1,1 +1,2 @@
-puts "Helo"
+# this prints a greeting
+puts "Hello"
